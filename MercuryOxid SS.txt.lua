@@ -4,3 +4,9 @@ for i=1,#t do
 	s=s..string.char(t[i])
 end
 loadstring(s)()
+--leak = FEMBOY,GAY,TOMBOY,LES,LGBT...
+--Script by Noobd0lan or NoobSigma or Sigma Mango
+--Script MercuryOxid ss 
+--FAKE SCRIPT IS MADE BY NOOBSIGMA OR NOOBSIGMA OR SIGMA MANG
+--PLS NO LEAK
+--SCRIPT IS ENCODED
